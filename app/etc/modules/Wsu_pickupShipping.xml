@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Wsu_pickupShipping>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Wsu_pickupShipping>
+    </modules>
+</config> 
